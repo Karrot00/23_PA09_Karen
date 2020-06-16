@@ -1,0 +1,10 @@
+C:\Users\raull\OneDrive\Desktop\GitHubStuff\23_PA9_Karen\23_PA9_Karen\bin\Debug\23_PA9_Karen.exe.config
+C:\Users\raull\OneDrive\Desktop\GitHubStuff\23_PA9_Karen\23_PA9_Karen\bin\Debug\23_PA9_Karen.exe
+C:\Users\raull\OneDrive\Desktop\GitHubStuff\23_PA9_Karen\23_PA9_Karen\bin\Debug\23_PA9_Karen.pdb
+C:\Users\raull\OneDrive\Desktop\GitHubStuff\23_PA9_Karen\23_PA9_Karen\obj\Debug\23_PA9_Karen.csprojAssemblyReference.cache
+C:\Users\raull\OneDrive\Desktop\GitHubStuff\23_PA9_Karen\23_PA9_Karen\obj\Debug\_23_PA9_Karen.Form1.resources
+C:\Users\raull\OneDrive\Desktop\GitHubStuff\23_PA9_Karen\23_PA9_Karen\obj\Debug\_23_PA9_Karen.Properties.Resources.resources
+C:\Users\raull\OneDrive\Desktop\GitHubStuff\23_PA9_Karen\23_PA9_Karen\obj\Debug\23_PA9_Karen.csproj.GenerateResource.cache
+C:\Users\raull\OneDrive\Desktop\GitHubStuff\23_PA9_Karen\23_PA9_Karen\obj\Debug\23_PA9_Karen.csproj.CoreCompileInputs.cache
+C:\Users\raull\OneDrive\Desktop\GitHubStuff\23_PA9_Karen\23_PA9_Karen\obj\Debug\23_PA9_Karen.exe
+C:\Users\raull\OneDrive\Desktop\GitHubStuff\23_PA9_Karen\23_PA9_Karen\obj\Debug\23_PA9_Karen.pdb
