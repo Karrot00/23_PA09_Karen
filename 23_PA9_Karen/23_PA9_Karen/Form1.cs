@@ -25,7 +25,7 @@ namespace _23_PA9_Karen
             try
             {
                 //checking for null values
-                if ((rdb_USdollars.Checked == false) || (rdb_JapaneseYen.Checked == false))
+                if ((rdb_USdollars.Checked == false) || (rdb_JapaneseYen.Checked == false) || rdb_malaysianringgit.Checked == false)
                 {
                     txt_convertedAmt.Text = "Select at least one currency to convert";
                 }
@@ -47,6 +47,14 @@ namespace _23_PA9_Karen
 
                     txt_convertedAmt.Text = convertedvalue.ToString();
                 }
+
+                if(rdb_malaysianringgit.Checked == true)
+                {
+                    AmountEntered = double.Parse(txt_amount.Text);
+                    convertedvalue = AmountEntered * 3.01;
+
+                    txt_convertedAmt.Text = convertedvalue.ToString();
+                }
             }
 
             catch (FormatException)
@@ -59,6 +67,9 @@ namespace _23_PA9_Karen
         {
             txt_amount.Text = "";
             txt_convertedAmt.Text = "";
+            rdb_malaysianringgit.Checked = false;
+            rdb_JapaneseYen.Checked = false;
+            rdb_USdollars.Checked = false;
         }
     }
 }
